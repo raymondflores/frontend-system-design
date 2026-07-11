@@ -8,6 +8,7 @@ Hands-on examples and exercises from working through frontend system design fund
 | --- | --- |
 | [`dom/`](dom/) | Building DOM components from a `<template>` element — cloning template content and populating it instead of parsing HTML strings. |
 | [`intersection-observer/`](intersection-observer/) | Infinite scroll using the Intersection Observer API — batching DOM mutations in a `DocumentFragment` as new data loads. |
+| [`mutation-observer/`](mutation-observer/) | Reacting to DOM changes with the Mutation Observer API — a Notion-style editor that turns `/h1`–`/h3` shortcuts into heading elements as you type. |
 
 ## Shared
 
